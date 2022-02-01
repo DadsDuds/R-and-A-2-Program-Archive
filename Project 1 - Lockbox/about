@@ -1,3 +1,4 @@
+Project 1 - Lockbox
 The first project revolves around creating a design for a lockbox and figuring out a way to open it with either a GUI or hardware.
-I chose to use hardware and mainly use Arduino for my the coding aspect of the project.
-Will update as the weeks go.
+I chose to use hardware and mainly use Arduino for the coding aspect of the project.
+Parts I ended up using were the 4x4 matrix keypad, 16x2 I2C LCD, and a standard 5g servo motor.
