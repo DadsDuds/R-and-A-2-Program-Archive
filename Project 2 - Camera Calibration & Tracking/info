@@ -1,0 +1,4 @@
+This project required an external webcam which needed to become 'undistorted' (aka remove the fisheye effect that most cameras have)
+Once doing so, we needed a way to track objects in space. With very little time at my disposal, I went with the YOLO algorithm to track objects.
+Implementing this in Python was straightforward but caused the FPS to tank. 
+I plan to retry this project in the future, this time using tinyYOLO.
