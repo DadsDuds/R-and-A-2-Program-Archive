@@ -1,1 +1,4 @@
-
+This project involves the use of hall sensors which are in charge of checking when an object has been moved.
+The Braccio arm also had to be used to grab and move around objects (in this case, lego bricks).
+Comes with a sleek GUI and some neat debugging notes in Python.
+The magnet ino file was used to make sure all five hall sensors were working properly.
