@@ -1,1 +1,9 @@
-
+This project involves running a simulation in a grid world.
+The goal is to have the player (robot) make its way to the goal (diamond) in four different ways.
+The first is random, and the amount of moves the player has made is kept track.
+The second uses a simple, but smarter, algorithm that lets the player reach the goal in as few moves as possible.
+The third uses the smarter algorithm, but there's a 25% chance that the goal can move to a random position.
+Lastly, the grid world is transformed into a nondeterministic world: 
+  Each time the player makes a move, 85% of the time the robot will move in its intended direction.
+  However, there is a 15% chance, which is then split thrice (5/5/5), that the robot will instead go to any other direction other than the intended one.
+  Whilst this is happening, the goal has a 25% chance of moving to a random position.
