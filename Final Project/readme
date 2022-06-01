@@ -2,4 +2,3 @@ This is my completed final project for my senior class.
 My project is a sonar radar that consists of a micro servo, ultrasonic sensor, breadboard, and an Arduino Uno board.
 I started my project with Arduino to test the functionality of the motor and sensor.
 Eventually, I switched to the Processing IDE to draw the sonar radar and have it detect objects in real time.
-
